@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CHMM.h
+vector
+-
+GMM.h
+../include/GMM.h
+string.h
+-
+assert.h
+-
+
+../include/GMM.h
+fstream
+-
+string.h
+-
+assert.h
+-
+
+/home/exbot/Documents/HMM-master/src/main.cpp
+iostream
+-
+CHMM.h
+/home/exbot/Documents/HMM-master/src/CHMM.h
+

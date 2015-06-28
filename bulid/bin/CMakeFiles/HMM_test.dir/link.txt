@@ -1,0 +1,1 @@
+g++   -Wall -std=c++11 -g    CMakeFiles/HMM_test.dir/main.cpp.o  -o ../../bin/HMM_test -rdynamic -L/home/exbot/Documents/HMM-master/lib ../../lib/libCHMM_.so -Wl,-rpath,/home/exbot/Documents/HMM-master/lib 

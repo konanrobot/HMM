@@ -1,0 +1,2 @@
+/home/exbot/Documents/HMM-master/bulid/lib/CMakeFiles/CHMM_.dir
+/home/exbot/Documents/HMM-master/bulid/bin/CMakeFiles/HMM_test.dir
